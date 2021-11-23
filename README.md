@@ -9,7 +9,7 @@ sh SCRIPT [OPTIONS]
 | ------ | ----------- |
 | `kafka-install.sh` | Setup Docker Swarm with Kafka and Zookeeper |
 | `kafka-uninstall.sh` | Leave Docker Swarm |
-| [topic-create.sh](#topic-create) | Create Kafka topic |
+| [`topic-create.sh`](#topic-create) | Create Kafka topic |
 | `topic-list.sh` | List Kafka topics |
 
 ---
